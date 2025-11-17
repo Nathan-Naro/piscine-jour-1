@@ -1,0 +1,17 @@
+commit 7b68a0537ac393c4cac3583d0067bf00674ba849
+Author: Nathan-naro <thoumieux.nathan@gmail.com>
+Date:   Mon Nov 17 15:44:16 2025 +0100
+
+    Ex_06
+
+commit d89f9612d6b5fe76be8fe66ae70635314c1da6d2
+Author: Nathan-naro <thoumieux.nathan@gmail.com>
+Date:   Mon Nov 17 15:39:55 2025 +0100
+
+    Ex_05
+
+commit ed81710f57ff1ea59dd85461398c22b2e2638b06
+Author: Nathan-naro <thoumieux.nathan@gmail.com>
+Date:   Mon Nov 17 14:59:37 2025 +0100
+
+    VA SUR GITHUB
